@@ -176,7 +176,7 @@ LANG = {
         "humidity": "Humidity (%)",
         "irrigation": "Irrigation Status",
         "stress": "Crop Stress Level",
-        "harvest": "Harvest Status",
+        "harvest": "Harvesting Status",
         "connectivity": "Sensor Connectivity",
         "required": "REQUIRED",
         "not_required": "NOT REQUIRED",
@@ -187,14 +187,35 @@ LANG = {
         "almost_ready": "ALMOST READY",
         "ready": "READY FOR HARVEST"
     },
+
+    "Marathi": {
+        "title": "अ‍ॅग्रीसेन्स",
+        "subtitle": "एआय व आयओटी आधारित स्मार्ट शेती डॅशबोर्ड",
+        "soil": "मातीतील आर्द्रता (%)",
+        "temp": "तापमान (°C)",
+        "humidity": "हवेतील आर्द्रता (%)",
+        "irrigation": "सिंचन स्थिती",
+        "stress": "पीक ताण पातळी",
+        "harvest": "कापणी स्थिती",
+        "connectivity": "सेन्सर कनेक्टिव्हिटी",
+        "required": "आवश्यक",
+        "not_required": "आवश्यक नाही",
+        "normal": "सामान्य",
+        "warning": "इशारा",
+        "critical": "गंभीर",
+        "not_ready": "तयार नाही",
+        "almost_ready": "लवकरच तयार",
+        "ready": "कापणीसाठी तयार"
+    },
+
     "Hindi": {
         "title": "एग्रीसेंस",
-        "subtitle": "AI व IoT आधारित कृषि डैशबोर्ड",
+        "subtitle": "एआई व IoT आधारित स्मार्ट कृषि डैशबोर्ड",
         "soil": "मिट्टी की नमी (%)",
         "temp": "तापमान (°C)",
         "humidity": "आर्द्रता (%)",
         "irrigation": "सिंचाई स्थिति",
-        "stress": "फसल तनाव",
+        "stress": "फसल तनाव स्तर",
         "harvest": "कटाई स्थिति",
         "connectivity": "सेंसर कनेक्टिविटी",
         "required": "आवश्यक",
@@ -206,28 +227,150 @@ LANG = {
         "almost_ready": "लगभग तैयार",
         "ready": "कटाई के लिए तैयार"
     },
-    "Marathi": {
-        "title": "अ‍ॅग्रीसेन्स",
-        "subtitle": "AI व IoT आधारित स्मार्ट शेती डॅशबोर्ड",
-        "soil": "मातीतील आर्द्रता (%)",
-        "temp": "तापमान (°C)",
-        "humidity": "हवेतील आर्द्रता (%)",
-        "irrigation": "सिंचन स्थिती",
-        "stress": "पीक ताण",
-        "harvest": "कापणी स्थिती",
-        "connectivity": "सेन्सर कनेक्टिव्हिटी",
-        "required": "आवश्यक",
-        "not_required": "आवश्यक नाही",
-        "normal": "सामान्य",
-        "warning": "इशारा",
-        "critical": "गंभीर",
-        "not_ready": "तयार नाही",
-        "almost_ready": "लवकरच तयार",
-        "ready": "कापणीसाठी तयार"
+
+    "Tamil": {
+        "title": "அக்ரிசென்ஸ்",
+        "subtitle": "AI & IoT அடிப்படையிலான விவசாய டாஷ்போர்டு",
+        "soil": "மண் ஈரப்பதம் (%)",
+        "temp": "வெப்பநிலை (°C)",
+        "humidity": "ஈரப்பதம் (%)",
+        "irrigation": "நீர்ப்பாசன நிலை",
+        "stress": "பயிர் அழுத்தம்",
+        "harvest": "அறுவடை நிலை",
+        "connectivity": "சென்சார் இணைப்பு",
+        "required": "தேவை",
+        "not_required": "தேவை இல்லை",
+        "normal": "சாதாரணம்",
+        "warning": "எச்சரிக்கை",
+        "critical": "அவசரம்",
+        "not_ready": "தயார் இல்லை",
+        "almost_ready": "விரைவில் தயாராகும்",
+        "ready": "அறுவடைக்கு தயாராக உள்ளது"
+    },
+
+    "Gujarati": {
+        "title": " એગ્રીસેન્સ",
+        "subtitle": "AI અને IoT આધારિત ખેતી ડેશબોર્ડ",
+        "soil": "માટીની ભેજ (%)",
+        "temp": "તાપમાન (°C)",
+        "humidity": "ભેજ (%)",
+        "irrigation": "સિંચાઈ સ્થિતિ",
+        "stress": "પાક તાણ",
+        "harvest": "કાપણી સ્થિતિ",
+        "connectivity": "સેન્સર કનેક્ટિવિટી",
+        "required": "આવશ્યક",
+        "not_required": "આવશ્યક નથી",
+        "normal": "સામાન્ય",
+        "warning": "ચેતવણી",
+        "critical": "ગંભીર",
+        "not_ready": "તૈયાર નથી",
+        "almost_ready": "લગભગ તૈયાર",
+        "ready": "કાપણી માટે તૈયાર"
+    },
+
+    "Odia": {
+        "title": "ଏଗ୍ରିସେନ୍ସ",
+        "subtitle": "AI ଓ IoT ଆଧାରିତ କୃଷି ଡ୍ୟାଶବୋର୍ଡ",
+        "soil": "ମାଟି ଆର୍ଦ୍ରତା (%)",
+        "temp": "ତାପମାତ୍ରା (°C)",
+        "humidity": "ଆର୍ଦ୍ରତା (%)",
+        "irrigation": "ସିଚାଇ ଅବସ୍ଥା",
+        "stress": "ଫସଲ ଚାପ",
+        "harvest": "କାଟିବା ଅବସ୍ଥା",
+        "connectivity": "ସେନ୍ସର ସଂଯୋଗ",
+        "required": "ଆବଶ୍ୟକ",
+        "not_required": "ଆବଶ୍ୟକ ନୁହେଁ",
+        "normal": "ସାଧାରଣ",
+        "warning": "ଚେତାବନୀ",
+        "critical": "ଗୁରୁତର",
+        "not_ready": "ପ୍ରସ୍ତୁତ ନୁହେଁ",
+        "almost_ready": "ପ୍ରାୟ ପ୍ରସ୍ତୁତ",
+        "ready": "କାଟିବା ପାଇଁ ପ୍ରସ୍ତୁତ"
+    },
+
+    "Malayalam": {
+        "title": "അഗ്രിസെൻസ്",
+        "subtitle": "AI & IoT അടിസ്ഥാനമാക്കിയ കാർഷിക ഡാഷ്ബോർഡ്",
+        "soil": "മണ്ണിലെ ഈർപ്പം (%)",
+        "temp": "താപനില (°C)",
+        "humidity": "ഈർപ്പം (%)",
+        "irrigation": "ജലസേചന നില",
+        "stress": "വിള സമ്മർദ്ദം",
+        "harvest": "വിളവെടുപ്പ് നില",
+        "connectivity": "സെൻസർ ബന്ധം",
+        "required": "ആവശ്യമാണ്",
+        "not_required": "ആവശ്യമില്ല",
+        "normal": "സാധാരണ",
+        "warning": "മുന്നറിയിപ്പ്",
+        "critical": "ഗുരുതരം",
+        "not_ready": "തയ്യാറല്ല",
+        "almost_ready": "ഏകദേശം തയ്യാറായി",
+        "ready": "വിളവെടുപ്പിന് തയ്യാറാണ്"
+    },
+
+    "Bengali": {
+        "title": "এগ্রিসেন্স",
+        "subtitle": "AI ও IoT ভিত্তিক কৃষি ড্যাশবোর্ড",
+        "soil": "মাটির আর্দ্রতা (%)",
+        "temp": "তাপমাত্রা (°C)",
+        "humidity": "আর্দ্রতা (%)",
+        "irrigation": "সেচ অবস্থা",
+        "stress": "ফসল চাপ",
+        "harvest": "ফসল কাটার অবস্থা",
+        "connectivity": "সেন্সর সংযোগ",
+        "required": "প্রয়োজন",
+        "not_required": "প্রয়োজন নেই",
+        "normal": "স্বাভাবিক",
+        "warning": "সতর্কতা",
+        "critical": "গুরুতর",
+        "not_ready": "প্রস্তুত নয়",
+        "almost_ready": "প্রায় প্রস্তুত",
+        "ready": "ফসল কাটার জন্য প্রস্তুত"
+    },
+
+    "Telugu": {
+        "title": "అగ్రిసెన్స్",
+        "subtitle": "AI & IoT ఆధారిత వ్యవసాయ డాష్‌బోర్డ్",
+        "soil": "మట్టిలో తేమ (%)",
+        "temp": "ఉష్ణోగ్రత (°C)",
+        "humidity": "తేమ (%)",
+        "irrigation": "నీటి స్థితి",
+        "stress": "పంట ఒత్తిడి",
+        "harvest": "పంట కోత స్థితి",
+        "connectivity": "సెన్సార్ కనెక్టివిటీ",
+        "required": "అవసరం",
+        "not_required": "అవసరం లేదు",
+        "normal": "సాధారణం",
+        "warning": "హెచ్చరిక",
+        "critical": "తీవ్రమైన",
+        "not_ready": "సిద్ధంగా లేదు",
+        "almost_ready": "దాదాపు సిద్ధం",
+        "ready": "పంట కోతకు సిద్ధం"
+    },
+
+
+    "Kannada": {
+        "title": "ಅಗ್ರಿಸೆನ್ಸ್",
+        "subtitle": "AI ಮತ್ತು IoT ಆಧಾರಿತ ಕೃಷಿ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+        "soil": "ಮಣ್ಣಿನ ತೇವಾಂಶ (%)",
+        "temp": "ತಾಪಮಾನ (°C)",
+        "humidity": "ಆದ್ರತೆ (%)",
+        "irrigation": "ನೀರಾವರಿ ಸ್ಥಿತಿ",
+        "stress": "ಬೆಳೆ ಒತ್ತಡ",
+        "harvest": "ಕೊಯ್ಲು ಸ್ಥಿತಿ",
+        "connectivity": "ಸೆನ್ಸಾರ್ ಸಂಪರ್ಕ",
+        "required": "ಅವಶ್ಯಕ",
+        "not_required": "ಅವಶ್ಯಕವಿಲ್ಲ",
+        "normal": "ಸಾಮಾನ್ಯ",
+        "warning": "ಎಚ್ಚರಿಕೆ",
+        "critical": "ಗಂಭೀರ",
+        "not_ready": "ಸಿದ್ಧವಾಗಿಲ್ಲ",
+        "almost_ready": "ಸಮೀಪದಲ್ಲಿದೆ",
+        "ready": "ಕೊಯ್ಲಿಗೆ ಸಿದ್ಧ"
     }
 }
 
-T = LANG.get(language, LANG["English"])
+T = LANG[language]
 
 # --------------------------------------------------
 # HEADER
@@ -297,3 +440,4 @@ else:
 # --------------------------------------------------
 time.sleep(3)
 st.rerun()
+

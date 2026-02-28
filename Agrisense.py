@@ -341,5 +341,6 @@ st.plotly_chart(fig,use_container_width=True)
 # --------------------------------------------------
 # AUTO REFRESH
 # --------------------------------------------------
-time.sleep(3)
+time.sleep(60)
+
 st.rerun()
